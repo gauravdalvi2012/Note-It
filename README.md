@@ -1,1 +1,1 @@
-An application to make small Notes and To-Do Lists
+An Android Application to make small Notes and To-Do Lists
